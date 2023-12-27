@@ -1,1 +1,3 @@
 # Advancing-Pneumonia-Detection-Using-Deep-Learning
+The primary goal of this work is to create a precise model that aids in the detection of pneumonia and the category which it belongs to i.e., Viral Pneumonia, bacterial Pneumonia. As part of the diagnosis, determine pneumonia using chest X-ray pictures. In the proposed work, deep learning Models like Inception V3 and MobileNetV2 are used to leverage their deep architectures and
+powerful feature learning capabilities to efficiently On the basis of evaluation criteria like accuracy, precision, and recall on the dataset of chest X-ray images, the suggested model's efficacy is then assessed. 
